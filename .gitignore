@@ -1,6 +1,8 @@
 
 .env
 node_modules
+.vscode/
+tmp/
 
 # Compiled Object files, Static and Dynamic libs (Shared Objects)
 *.o
@@ -29,6 +31,3 @@ vendor/
 *.out
 
 # Dependency directories (remove the comment below if you are using dep)
-
-.vscode/
-tmp/
